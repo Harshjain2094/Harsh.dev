@@ -5,6 +5,7 @@
 
   export default defineConfig({
     plugins: [react()],
+    base: '/Harsh.dev/',
     resolve: {
       extensions: ['.js', '.jsx', '.ts', '.tsx', '.json'],
       alias: {
