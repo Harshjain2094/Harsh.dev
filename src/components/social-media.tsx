@@ -43,7 +43,7 @@ export function SocialMedia() {
       icon: <Github className="h-6 w-6" />,
       username: "@Harshjain2094",
       description: "Open source projects & Android utilities",
-      link: "https://github.com/Harshjain2094",
+      link: "https://github.com/harshjain-dev",
       color: "hover:text-gray-300"
     },
     {
