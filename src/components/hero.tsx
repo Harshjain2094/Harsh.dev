@@ -33,7 +33,7 @@ export function Hero() {
           
           <div className="flex justify-center space-x-6 mb-16">
             <a
-              href="https://github.com/Harshjain2094"
+              href="https://github.com/harshjain-dev"
               target="_blank"
               rel="noopener noreferrer"
               className="text-muted-foreground hover:text-primary transition-colors duration-200"
