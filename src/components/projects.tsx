@@ -163,7 +163,7 @@ export function Projects() {
               <div className="flex justify-center gap-4">
                 <Button asChild>
                   <a 
-                    href="https://github.com/Harshjain2094" 
+                    href="https://github.com/harshjain-dev" 
                     target="_blank" 
                     rel="noopener noreferrer"
                     className="flex items-center gap-2"
