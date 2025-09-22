@@ -4,7 +4,7 @@ export function Footer() {
   const socialLinks = [
     {
       icon: <Github className="h-5 w-5" />,
-      href: "https://github.com/Harshjain2094",
+      href: "https://github.com/harshjain-dev",
       label: "GitHub"
     },
     {
