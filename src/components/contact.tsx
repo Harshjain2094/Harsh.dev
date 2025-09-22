@@ -29,7 +29,7 @@ export function Contact() {
     {
       icon: <Github className="h-5 w-5" />,
       label: "GitHub",
-      link: "https://github.com/Harshjain2094"
+      link: "https://github.com/harshjain-dev"
     },
     {
       icon: <Linkedin className="h-5 w-5" />,
